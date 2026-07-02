@@ -1,0 +1,7 @@
+{
+  "name": "reporting view",
+  "domain": "fintech",
+  "score_floor": 0.74,
+  "review_window_hours": 24,
+  "expected_action": "review"
+}
