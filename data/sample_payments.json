@@ -1,0 +1,146 @@
+[
+  {
+    "id": "payment-001",
+    "exposure": 84383,
+    "signal": 0.276,
+    "urgency": 1
+  },
+  {
+    "id": "payment-002",
+    "exposure": 78091,
+    "signal": 0.346,
+    "urgency": 3
+  },
+  {
+    "id": "payment-003",
+    "exposure": 46190,
+    "signal": 0.305,
+    "urgency": 6
+  },
+  {
+    "id": "payment-004",
+    "exposure": 46876,
+    "signal": 0.382,
+    "urgency": 7
+  },
+  {
+    "id": "payment-005",
+    "exposure": 44273,
+    "signal": 0.871,
+    "urgency": 4
+  },
+  {
+    "id": "payment-006",
+    "exposure": 60355,
+    "signal": 0.326,
+    "urgency": 8
+  },
+  {
+    "id": "payment-007",
+    "exposure": 61605,
+    "signal": 0.187,
+    "urgency": 4
+  },
+  {
+    "id": "payment-008",
+    "exposure": 56346,
+    "signal": 0.762,
+    "urgency": 3
+  },
+  {
+    "id": "payment-009",
+    "exposure": 27800,
+    "signal": 0.186,
+    "urgency": 7
+  },
+  {
+    "id": "payment-010",
+    "exposure": 19992,
+    "signal": 0.856,
+    "urgency": 4
+  },
+  {
+    "id": "payment-011",
+    "exposure": 69189,
+    "signal": 0.595,
+    "urgency": 6
+  },
+  {
+    "id": "payment-012",
+    "exposure": 11361,
+    "signal": 0.718,
+    "urgency": 2
+  },
+  {
+    "id": "payment-013",
+    "exposure": 84021,
+    "signal": 0.23,
+    "urgency": 5
+  },
+  {
+    "id": "payment-014",
+    "exposure": 83807,
+    "signal": 0.834,
+    "urgency": 3
+  },
+  {
+    "id": "payment-015",
+    "exposure": 73630,
+    "signal": 0.886,
+    "urgency": 4
+  },
+  {
+    "id": "payment-016",
+    "exposure": 83981,
+    "signal": 0.841,
+    "urgency": 4
+  },
+  {
+    "id": "payment-017",
+    "exposure": 88338,
+    "signal": 0.675,
+    "urgency": 6
+  },
+  {
+    "id": "payment-018",
+    "exposure": 7006,
+    "signal": 0.363,
+    "urgency": 1
+  },
+  {
+    "id": "payment-019",
+    "exposure": 63506,
+    "signal": 0.214,
+    "urgency": 6
+  },
+  {
+    "id": "payment-020",
+    "exposure": 60343,
+    "signal": 0.657,
+    "urgency": 7
+  },
+  {
+    "id": "payment-021",
+    "exposure": 41181,
+    "signal": 0.93,
+    "urgency": 2
+  },
+  {
+    "id": "payment-022",
+    "exposure": 40890,
+    "signal": 0.93,
+    "urgency": 7
+  },
+  {
+    "id": "payment-023",
+    "exposure": 75241,
+    "signal": 0.105,
+    "urgency": 4
+  },
+  {
+    "id": "payment-024",
+    "exposure": 56004,
+    "signal": 0.657,
+    "urgency": 2
+  }
+]
